@@ -30,7 +30,6 @@ h2 {
 
 .logo {
 	flex: 100%;
-	/* width: 235px; */
 	height: 100px;
 	margin-bottom: 35px 0 35px 0;
 }
@@ -58,8 +57,6 @@ h2 {
 .teams img {
 	display: block;
 	max-width: 100%;
-	/* min-width: 320px; */
-	/* max-height: 180px; */
 	flex: 100%;
 	align-items: center;
 	margin: 5px 5px 30px 5px;
